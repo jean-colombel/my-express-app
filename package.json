@@ -1,0 +1,22 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jean-colombel/my-express-app.git"
+  },
+  "author": "Jean Colombel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jean-colombel/my-express-app/issues"
+  },
+  "homepage": "https://github.com/jean-colombel/my-express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
